@@ -1,0 +1,4 @@
+-swf test.swf
+-main BasicSimulation
+-lib nape
+-swf-version 10.2

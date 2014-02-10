@@ -1,0 +1,4 @@
+-swf off_robot.swf
+-main OffRobot
+-lib nape
+-swf-version 10.2
