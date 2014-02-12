@@ -95,7 +95,7 @@ class OffRobot extends Sprite {
     //   we give it an angular velocity so when it touched
     //   the floor it will begin rolling towards the tower.
     var ball = new Body(BodyType.DYNAMIC);
-    ball.shapes.add(new Circle(20));
+    ball.shapes.add(new Circle(15));
     ball.position.setxy(50, h / 2);
     ball.angularVel = 120;
     ball.space = space;
